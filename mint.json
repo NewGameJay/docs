@@ -2,50 +2,44 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/logo/core-logo-on-dark.svg",
+    "light": "/logo/core-logo-on-light.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/white-out-logomark.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#DC07FF",
+    "light": "#9A44FD",
+    "dark": "#590AA0",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#ffffff",
+      "to": "#DC07FF"
     }
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Contact Us",
+      "url": "https://newgame.me/contact"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Get Started",
+    "url": "https://app.newgame.me"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "The App",
+      "icon": "mobile-screen",
+      "url": "https://app.newgame.me"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "name": "The Agency",
+      "icon": "briefcase",
+      "url": "https://newgame.me/agency"
     },
     {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "The Profile",
+      "icon": "circle-user",
+      "url": "https://app.newgame.me/@newgame"
     }
   ],
   "navigation": [
@@ -53,7 +47,7 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart",
+        "background",
         "development"
       ]
     },
@@ -67,25 +61,12 @@
         "essentials/navigation",
         "essentials/reusable-snippets"
       ]
-    },
-    {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
-      ]
     }
   ],
   "footerSocials": {
     "x": "https://x.com/mintlify",
     "github": "https://github.com/mintlify",
     "linkedin": "https://linkedin.com/company/mintlify"
-  }
+  },
+  "openapi": "3.0.0"
 }
