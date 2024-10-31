@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "New Game+ Documentation",
+  "name": "New Game+",
   "logo": {
     "dark": "/logo/core-logo-on-dark.svg",
     "light": "/logo/core-logo-on-light.svg"
