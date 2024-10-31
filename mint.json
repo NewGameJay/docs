@@ -7,12 +7,12 @@
   },
   "favicon": "/white-out-logomark.svg",
   "colors": {
-    "primary": "#DC07FF",
-    "light": "#9A44FD",
+    "primary": "#9A44FD",
+    "light": "#DC07FF",
     "dark": "#590AA0",
     "anchors": {
       "from": "#ffffff",
-      "to": "#DC07FF"
+      "to": "#9A44FD"
     }
   },
   "topbarLinks": [
