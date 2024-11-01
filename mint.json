@@ -56,7 +56,7 @@
       "pages": [
         "app/app-overview"
         {"group": "Creators",
-         "pages": "Overview"
+         "pages": "app/creators"
         }
       ]
     }
