@@ -59,9 +59,8 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://linkedin.com/company/mintlify"
+    "x": "https://x.com/newgameus",
+    "website": "https://newgame.me/"
   },
-  "openapi": "3.0.0"
+  "openapi": "0.0.1"
 }
