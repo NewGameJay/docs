@@ -60,7 +60,8 @@
   ],
   "footerSocials": {
     "x": "https://x.com/newgameus",
-    "website": "https://newgame.me/"
+    "website": "https://newgame.me/",
+    "telegram": "https://t.me/newgame_me"
   },
   "openapi": "0.0.1"
 }
