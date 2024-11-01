@@ -52,14 +52,9 @@
       ]
     },
     {
-      "group": "The App",
+      "group": "Application",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "app/app-overview",
       ]
     }
   ],
