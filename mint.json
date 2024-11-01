@@ -54,7 +54,7 @@
     {
       "group": "Application",
       "pages": [
-        "app/app-overview",
+        "app/app-overview"
       ]
     }
   ],
