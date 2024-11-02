@@ -57,7 +57,8 @@
         "app/app-overview",
         {
         "group": "Creators",
-        "pages": ["creators/creator-overview"]
+        "pages": ["creators/creator-profiles",
+        "creators/creator-offers"]
         }
       ]
     }
