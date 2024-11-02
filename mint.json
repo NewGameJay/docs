@@ -58,7 +58,8 @@
         {
         "group": "Creators",
         "pages": ["creators/creator-profiles",
-        "creators/creator-offers"]
+        "creators/creator-offers",
+        "creators/creator-discovery"]
         }
       ]
     }
