@@ -55,7 +55,10 @@
       "group": "Application",
       "pages": [
         "app/app-overview",
-        "creators/creator-overview"
+        {
+        "group": "Creators",
+        "pages": ["creators/creator-overview"]
+        }
       ]
     }
   ],
