@@ -63,6 +63,16 @@
         "creators/creator-campaigns"
         ]
         },
+        {
+          "group": "Studios",
+          "pages": [
+          "studios/studio-dashboard",
+          "studios/studio-profiles",
+          "studios/studio-campaigns",
+          "studios/studio-performance",
+          "studios/studio-reputation"
+          ]
+        },
         "app/payout-portal",
         "app/blockchain-integration"
       ]
