@@ -61,9 +61,9 @@
         "creators/creator-offers",
         "creators/creator-discovery",
         "creators/creator-campaigns",
-        "creators/creator-payouts"
         ]
         },
+        "app/payout-portal",
         "app/blockchain-integration"
       ]
     }
