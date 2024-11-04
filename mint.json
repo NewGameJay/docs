@@ -82,11 +82,21 @@
       "group": "Agency",
       "pages": [
       "agency/overview",
+      "agency/process",
       {
         "group": "Services",
         "pages": [
-        "agency/services/creator-campaigns"
+        "agency/services/creator-campaigns",
+        "agency/services/content-strategy",
+        "agency/services/live-events"
         ]
+      },
+      {
+        "group": "Case Studies",
+        "pages": [
+        "case-study/questbook"
+        ]
+        
       }
       ]
     }
