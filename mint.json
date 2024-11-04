@@ -81,7 +81,13 @@
     {
       "group": "Agency",
       "pages": [
-      "agency/overview"
+      "agency/overview",
+      {
+        "group": "Services",
+        "pages": [
+        "services/creator-campaigns"
+        ]
+      }
       ]
     }
   ],
