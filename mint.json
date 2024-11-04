@@ -62,7 +62,8 @@
         "creators/creator-discovery",
         "creators/creator-campaigns"
         ]
-        }
+        },
+        "app/blockchain-integration"
       ]
     }
   ],
