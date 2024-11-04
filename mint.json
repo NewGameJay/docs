@@ -77,6 +77,12 @@
         "app/payout-portal",
         "app/blockchain-integration"
       ]
+    },
+    {
+      "group": "Agency",
+      "pages": [
+      "agency/overview"
+      ]
     }
   ],
   "footerSocials": {
