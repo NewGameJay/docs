@@ -13,7 +13,8 @@
     "anchors": {
       "from": "#590AA0",
       "to": "#9A44FD"
-    }
+    },
+    "hover": "#9A44FD"
   },
   "topbarLinks": [
     {
