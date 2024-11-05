@@ -70,10 +70,10 @@
           "studios/studio-dashboard",
           "studios/studio-profiles",
           "studios/studio-campaigns",
-          "studios/studio-performance",
-          "studios/studio-reputation"
+          "studios/studio-performance"
           ]
         },
+        "app/reputation",
         "app/payout-portal",
         "app/blockchain-integration"
       ]
