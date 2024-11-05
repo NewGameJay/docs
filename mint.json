@@ -59,7 +59,6 @@
         "group": "Creators",
         "pages": ["creators/creator-dashboard", "creators/creator-profiles",
         "creators/creator-offers",
-        "creators/creator-discovery",
         "creators/creator-campaigns"
         ]
         },
