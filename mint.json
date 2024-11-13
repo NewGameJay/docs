@@ -91,7 +91,7 @@
       {
         "group": "Case Studies",
         "pages": [
-        "case-studies/questbook",
+        "questbook",
         "planet-mojo",
         "cosmik-battle"
         ]
