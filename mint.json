@@ -47,9 +47,7 @@
       "group": "New Game+",
       "pages": [
         "introduction",
-        "background",
-        "media-kit"
-      ]
+        "background"      ]
     },
     {
       "group": "Application",
@@ -97,6 +95,12 @@
         ]
       }     
       ]
+    },
+    {
+    "pages":
+    [
+    "media-kit"
+    ]
     }
     ]
   ],
