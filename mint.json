@@ -47,7 +47,8 @@
       "group": "New Game+",
       "pages": [
         "introduction",
-        "background"
+        "background",
+        "media-kit"
       ]
     },
     {
@@ -94,10 +95,7 @@
         "planet-mojo",
         "cosmik-battle"
         ]
-      }
-      "pages": [
-      "media-kit"
-      ]      
+      }     
       ]
     }
     ]
