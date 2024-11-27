@@ -48,26 +48,29 @@
       "pages": [
         "introduction",
         "background",
-        "media-kit"]
+        "media-kit"
+      ]
     },
     {
       "group": "Application",
       "pages": [
         "app/app-overview",
         {
-        "group": "Creators",
-        "pages": ["creators/creator-dashboard", "creators/creator-profiles",
-        "creators/creator-offers",
-        "creators/creator-campaigns"
-        ]
+          "group": "Creators",
+          "pages": [
+            "creators/creator-dashboard",
+            "creators/creator-profiles",
+            "creators/creator-offers",
+            "creators/creator-campaigns"
+          ]
         },
         {
           "group": "Studios",
           "pages": [
-          "studios/studio-dashboard",
-          "studios/studio-profiles",
-          "studios/studio-campaigns",
-          "studios/studio-performance"
+            "studios/studio-dashboard",
+            "studios/studio-profiles",
+            "studios/studio-campaigns",
+            "studios/studio-performance"
           ]
         },
         "app/reputation",
@@ -78,26 +81,25 @@
     {
       "group": "Agency",
       "pages": [
-      "agency/overview",
-      {
-        "group": "Services",
-        "pages": [
-        "agency/services/creator-campaigns",
-        "agency/services/content-strategy",
-        "agency/services/live-events"
-        ]
-      },
-      {
-        "group": "Case Studies",
-        "pages": [
-        "questbook",
-        "planet-mojo",
-        "cosmik-battle"
-        ]
-      }     
+        "agency/overview",
+        {
+          "group": "Services",
+          "pages": [
+            "agency/services/creator-campaigns",
+            "agency/services/content-strategy",
+            "agency/services/live-events"
+          ]
+        },
+        {
+          "group": "Case Studies",
+          "pages": [
+            "questbook",
+            "planet-mojo",
+            "cosmik-battle"
+          ]
+        }
       ]
     }
-    ]
   ],
   "footerSocials": {
     "x": "https://x.com/newgameus",
